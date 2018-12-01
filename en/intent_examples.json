@@ -1,0 +1,478 @@
+{
+    "GetTime": [
+        {
+            "text": "what time is it",
+            "slots": {}
+        },
+        {
+            "text": "tell me the time",
+            "slots": {}
+        }
+    ],
+    "ChangeLightColor": [
+        {
+            "text": "set the bedroom light to red",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "text": "set the bedroom light to green",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "text": "set the bedroom light to blue",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "blue"
+                ]
+            }
+        },
+        {
+            "text": "set the bedroom light red",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "text": "set the bedroom light green",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "text": "set the bedroom light blue",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "blue"
+                ]
+            }
+        },
+        {
+            "text": "set bedroom light to red",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "text": "set bedroom light to green",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "text": "set bedroom light to blue",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "blue"
+                ]
+            }
+        },
+        {
+            "text": "set bedroom light red",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "text": "set bedroom light green",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "text": "set bedroom light blue",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "blue"
+                ]
+            }
+        },
+        {
+            "text": "make the bedroom light red",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "text": "make the bedroom light green",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "text": "make the bedroom light blue",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "blue"
+                ]
+            }
+        },
+        {
+            "text": "make bedroom light red",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "text": "make bedroom light green",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "text": "make bedroom light blue",
+            "slots": {
+                "name": [
+                    "bedroom light"
+                ],
+                "color": [
+                    "blue"
+                ]
+            }
+        }
+    ],
+    "GetTemperature": [
+        {
+            "text": "whats the temperature",
+            "slots": {}
+        },
+        {
+            "text": "how hot is it",
+            "slots": {}
+        },
+        {
+            "text": "how cold is it",
+            "slots": {}
+        }
+    ],
+    "GetGarageState": [
+        {
+            "text": "is the garage door open",
+            "slots": {}
+        },
+        {
+            "text": "is the garage door closed",
+            "slots": {}
+        }
+    ],
+    "ChangeLightState": [
+        {
+            "text": "turn on the living room lamp",
+            "slots": {
+                "state": [
+                    "on"
+                ],
+                "name": [
+                    "living room lamp"
+                ]
+            }
+        },
+        {
+            "text": "turn on the garage light",
+            "slots": {
+                "state": [
+                    "on"
+                ],
+                "name": [
+                    "garage light"
+                ]
+            }
+        },
+        {
+            "text": "turn on the  name ",
+            "slots": {
+                "state": [
+                    "on"
+                ]
+            }
+        },
+        {
+            "text": "turn on living room lamp",
+            "slots": {
+                "state": [
+                    "on"
+                ],
+                "name": [
+                    "living room lamp"
+                ]
+            }
+        },
+        {
+            "text": "turn on garage light",
+            "slots": {
+                "state": [
+                    "on"
+                ],
+                "name": [
+                    "garage light"
+                ]
+            }
+        },
+        {
+            "text": "turn on  name ",
+            "slots": {
+                "state": [
+                    "on"
+                ]
+            }
+        },
+        {
+            "text": "turn off the living room lamp",
+            "slots": {
+                "state": [
+                    "off"
+                ],
+                "name": [
+                    "living room lamp"
+                ]
+            }
+        },
+        {
+            "text": "turn off the garage light",
+            "slots": {
+                "state": [
+                    "off"
+                ],
+                "name": [
+                    "garage light"
+                ]
+            }
+        },
+        {
+            "text": "turn off the  name ",
+            "slots": {
+                "state": [
+                    "off"
+                ]
+            }
+        },
+        {
+            "text": "turn off living room lamp",
+            "slots": {
+                "state": [
+                    "off"
+                ],
+                "name": [
+                    "living room lamp"
+                ]
+            }
+        },
+        {
+            "text": "turn off garage light",
+            "slots": {
+                "state": [
+                    "off"
+                ],
+                "name": [
+                    "garage light"
+                ]
+            }
+        },
+        {
+            "text": "turn off  name ",
+            "slots": {
+                "state": [
+                    "off"
+                ]
+            }
+        },
+        {
+            "text": "turn the living room lamp on",
+            "slots": {
+                "name": [
+                    "living room lamp"
+                ],
+                "state": [
+                    "on"
+                ]
+            }
+        },
+        {
+            "text": "turn the living room lamp off",
+            "slots": {
+                "name": [
+                    "living room lamp"
+                ],
+                "state": [
+                    "off"
+                ]
+            }
+        },
+        {
+            "text": "turn the garage light on",
+            "slots": {
+                "name": [
+                    "garage light"
+                ],
+                "state": [
+                    "on"
+                ]
+            }
+        },
+        {
+            "text": "turn the garage light off",
+            "slots": {
+                "name": [
+                    "garage light"
+                ],
+                "state": [
+                    "off"
+                ]
+            }
+        },
+        {
+            "text": "turn the  name  on",
+            "slots": {
+                "state": [
+                    "on"
+                ]
+            }
+        },
+        {
+            "text": "turn the  name  off",
+            "slots": {
+                "state": [
+                    "off"
+                ]
+            }
+        },
+        {
+            "text": "turn living room lamp on",
+            "slots": {
+                "name": [
+                    "living room lamp"
+                ],
+                "state": [
+                    "on"
+                ]
+            }
+        },
+        {
+            "text": "turn living room lamp off",
+            "slots": {
+                "name": [
+                    "living room lamp"
+                ],
+                "state": [
+                    "off"
+                ]
+            }
+        },
+        {
+            "text": "turn garage light on",
+            "slots": {
+                "name": [
+                    "garage light"
+                ],
+                "state": [
+                    "on"
+                ]
+            }
+        },
+        {
+            "text": "turn garage light off",
+            "slots": {
+                "name": [
+                    "garage light"
+                ],
+                "state": [
+                    "off"
+                ]
+            }
+        },
+        {
+            "text": "turn  name  on",
+            "slots": {
+                "state": [
+                    "on"
+                ]
+            }
+        },
+        {
+            "text": "turn  name  off",
+            "slots": {
+                "state": [
+                    "off"
+                ]
+            }
+        }
+    ]
+}
